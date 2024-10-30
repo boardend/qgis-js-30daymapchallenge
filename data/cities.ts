@@ -1,3 +1,1 @@
-export const cities = [
-  { name: "Bratislava", coords: [17.109722, 48.143889] },
-];
+export const cities = [{ name: "Hamburg", coords: [9.9937, 53.5511] }];

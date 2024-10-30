@@ -5,50 +5,16 @@ title: Intro
 routeAlias: intro
 ---
 
-### It all began in ’s-Hertogenbosch
+### #30DayMapChallenge
 
 <br />
 
 <div v-click>
   <p>
-    QGIS User Conference, April 2023
+    The idea is to create maps based around different themes each day of November using the hashtag #30DayMapChallenge.
+  </p><p>
+    You can prepare the maps beforehand, but the main idea is to publish maps on the dedicated days. Just include a picture of the map when you post to X/Instagram/Linkedin (or your preferred social media platforms) using the hashtag.
+  </p><p>
+    You don't have to sign up anywhere to participate. There are no restrictions on the tools, technologies or the data you use in your maps. Doing less than 30 is also fine.
   </p>
-<p>
-
-- Martin Dobias
-- Michael Schmuki
-- Andreas Neumann
-
-</p>
-  <img
-    class="absolute top-27"
-    style="width: 13.5rem; right: 0; margin-right: 29rem"
-    src="/data/qgis-ugm.webp"
-  />
-
-  <br />
-
-</div>
-
-<div v-click>
-  <p>
-  Feasibility study for the <b>Atlas of Switzerland</b>
-  </p>
-<p>
-
-- Institute of Cartography and Geoinformation, ETH Zurich
-- Summer & Fall 2023
-
-</p>
-  <img
-    class="absolute bottom-17"
-    style="width: 13.5rem; right: 0; margin-right: 29rem"
-    src="/data/aos_logo_white.png"
-  />
-</div>
-<div v-click>
-  <ul>
-    <li>Performance &amp; Progressive Rendering</li>
-    <li>Spring 2024</li>
-  </ul>
 </div>
