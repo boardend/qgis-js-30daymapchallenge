@@ -25,7 +25,7 @@ hideInToc: true
 </div>
 
 <div class="abs-br m-6 flex gap-2">
-  <a href="https://github.com/boardend/qgis-js-demo" target="_blank" alt="GitHub" title="Open in GitHub"
+  <a href="https://github.com/boardend/qgis-js-30daymapchallenge" target="_blank" alt="GitHub" title="Open in GitHub"
     class="text-xl slidev-icon-btn opacity-50 !border-none !hover:text-white">
     <carbon-logo-github />
   </a>
@@ -122,4 +122,4 @@ hideInToc: true
 
 <br /><br />
 
-**Interactive Slides**: [https://boardend.github.io/qgis-js-demo](https://boardend.github.io/qgis-js-demo/)
+**Interactive Slides**: [https://boardend.github.io/qgis-js-30daymapchallenge](https://boardend.github.io/qgis-js-30daymapchallenge/)

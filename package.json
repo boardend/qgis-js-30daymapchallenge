@@ -1,13 +1,13 @@
 {
-  "name": "qgis-js-demo",
+  "name": "qgis-js-30daymapchallenge",
   "type": "module",
   "private": true,
   "scripts": {
     "start": "npm run dev",
-    "build": "slidev build --base /qgis-js-demo/",
+    "build": "slidev build --base /qgis-js-30daymapchallenge/",
     "dev": "slidev",
     "export": "slidev export",
-    "preview": "vite preview --base /qgis-js-demo/",
+    "preview": "vite preview --base /qgis-js-30daymapchallenge/",
     "update": "pnpm update"
   },
   "slidev": {

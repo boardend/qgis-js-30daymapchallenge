@@ -41,13 +41,13 @@ import { cities } from "../../data/cities";
 const map = ref(null);
 
 function prefix() {
-  return window.location.pathname.startsWith("/qgis-js-demo")
-    ? "/qgis-js-demo/"
+  return window.location.pathname.startsWith("/qgis-js-30daymapchallenge")
+    ? "/qgis-js-30daymapchallenge/"
     : "/";
 }
 
 function project() {
-  return prefix() + "qgis-js-demo-project";
+  return prefix() + "qgis-js-30daymapchallenge-project";
 }
 
 function onEnter(slide: number) {
